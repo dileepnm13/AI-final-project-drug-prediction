@@ -4,6 +4,8 @@ This project is an application programming interface to recommend drugs to users
 
 Team Members: DileepNM,udaykiran P,Prem Kumar M,Premsai N
 
+NOtebook contains the jupyter notebook for data preprocessing and feature engineering
+
 steps to execute:
 1. Open Anaconda Prompt
 2. write/paste the below command
