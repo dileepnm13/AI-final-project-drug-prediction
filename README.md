@@ -6,6 +6,8 @@ Team Members: DileepNM,udaykiran P,Prem Kumar M,Premsai N
 
 NOtebook contains the jupyter notebook for data preprocessing and feature engineering
 
+youtube link to demo of our project: https://youtu.be/rTB7UQTN_Y8
+
 steps to execute:
 1. Open Anaconda Prompt
 2. write/paste the below command
@@ -22,5 +24,5 @@ Press enter
 
 7.After entering the details of patient the system will give disease prediction and drug recomondation.
 
-youtube link to demo of our project: https://youtu.be/rTB7UQTN_Y8
+
 
