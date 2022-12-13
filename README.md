@@ -24,5 +24,7 @@ Press enter
 
 7.After entering the details of patient the system will give disease prediction and drug recomondation.
 
+report.docs contains the final report of this project
+
 
 
