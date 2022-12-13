@@ -1,0 +1,70 @@
+S.No,Name,Age,Gender,chol,BloodPressure,BMI,Disease
+1,Shiva ,35,Male,233,72,33.6,Cardiovascular disease (CVD)
+2,Shekar,32,Male,250,66,26.6,Heart condition
+3,Mounika,38,Female,204,64,23.3,Hypertension
+4,Manoj Kumar,28,Male,236,66,28.1,Chronic kidney disease
+5,MADAGONOLU VAISHNAVI,25,Female,354,40,43.1,Diabetes
+6,BHATTAGIRI NEEHARIKA,30,Female,192,74,25.6,Obesity
+7,K VENKATA PALLAVI,18,Female,294,50,31,Eating disorder
+8,KANDAGATLA SIDDIKA,20,Female,263,0,35.3,Cardiovascular disease (CVD)
+9,MEESALA MEGHANA,26,Female,199,70,30.5,Diabetes
+10,MADDALA SAI DURGA,27,Female,168,96,0,Hypertension
+11,CHITROTHU LEELA SAI SREE,34,Female,239,92,37.6,Heart condition
+12,KONGARA SRUTHIKA,65,Female,275,74,38,Obesity
+13,MODEKURTY BHUVANA VIBHAVARI,55,Female,266,80,27.1,Chronic kidney disease
+14,SRUJANA BHANDARI,60,Female,211,60,30.1,Heart condition
+15,G NITYA SREE,59,Female,283,72,25.8,Cardiovascular disease (CVD)
+16,DODDI SAI PRANITHA,78,Female,219,0,30,Hypertension
+17,SHABNAM BANU,55,Male,340,84,45.8,Obesity
+18,E KRITHIKA,57,Female,226,74,29.6,Diabetes
+19,G GNANITHA,58,Female,247,30,43.3,Obesity
+20,RIYA BHATI,47,Female,239,70,34.6,Diabetes
+21,KOMARRAJU RAMAKRISHNA BHARADWAJ,49,Male,234,88,39.3,Obesity
+22,ANUMUKONDA JEEVAN,36,Male,233,84,35.4,Chronic kidney disease
+23,SAYEDA MAHER JABEEN,48,Male,226,90,39.8,Obesity
+24,SONALI PRADHAN,25,Male,243,80,29,Hypertension
+25,UPPE LAYANANDINI,27,Male,199,94,36.6,Heart condition
+26,RAMDEEN ANJALI,19,Female,302,70,31.1,Cardiovascular disease (CVD)
+27,KADARI SAI SINDHU,37,Female,212,76,39.4,Diabetes
+28,CHATLA VIGHNAJIT,38,Male,175,66,23.2,Eating disorder
+29,R PRIYANKA,39,Female,417,82,22.2,Chronic kidney disease
+30,VANAM DIVESH REDDY,59,Male,197,92,34.1,Cardiovascular disease (CVD)
+31,N JAYARAM CHOUDHURY,57,Male,198,75,36,Hypertension
+32,SARDAR TEJINDER SINGH,88,Male,177,76,31.6,Eating disorder
+33,JILLELLAMUDI TARUN,67,Male,219,58,24.8,Diabetes
+34,RAMDIN ROHIT SINGH,98,Male,273,92,19.9,Obesity
+35,HEMANSHU CHOUDHARY,47,Male,213,78,27.6,Heart condition
+36,RAMDEEN MAYAVATHI,69,Female,177,60,24,Cardiovascular disease (CVD)
+37,SHAIK MEHVEEZ TAHENIYATH,75,Male,304,76,33.2,Chronic kidney disease
+38,LAXMINARAYAN TANISHKA,47,Female,232,76,32.9,Hypertension
+39,BOINI MANISHA YADAV,66,Male,269,68,38.2,Diabetes
+40,BAYARA LALIT SINGH,77,Male,360,72,37.1,Eating disorder
+41,ANISH,55,Male,308,64,34,Chronic kidney disease
+42,BIRKAD VARUN,44,Male,245,84,40.2,Eating disorder
+43,ANHAR UL FIRDOUS ANSARI,33,Male,208,92,22.7,Cardiovascular disease (CVD)
+44,KUDUPUDI NISCHAL,22,Male,264,110,45.4,Diabetes
+45,KOTLA PALLAVI,24,Female,321,64,27.4,Eating disorder
+46,NEERAJ SINGH,26,Male,325,66,42,Hypertension
+47,MOHAMMED ESAR UDDIN,27,Male,235,56,29.7,Obesity
+48,KOTTAM SRI CHARITH,36,Female,257,70,28,Chronic kidney disease
+49,UMARA HABEEB NIMRA,57,Female,216,66,39.1,Eating disorder
+50,JALLA SAI KARTHIK YADAV,47,Male,234,0,0,Diabetes
+51,A NITHYA SREE,68,Female,256,80,19.4,Heart condition
+52,K MANIKANTA VENKATA SAATHWIK,75,Male,302,50,24.2,Eating disorder
+53,ABHIJEET RAJ RANA,47,Male,231,66,24.4,Eating disorder
+54,S MANISH,56,Male,141,90,33.7,Hypertension
+55,AMAM KRITHIK SRIHARSHA,78,Male,252,66,34.7,Eating disorder
+56,PADMASALI GURRAM KANISHKA,46,Female,201,50,23,Hypertension
+57,ANJALI SHARMA,57,Female,222,68,37.7,Cardiovascular disease (CVD)
+58,L TANIYA,38,Female,260,88,46.8,Chronic kidney disease
+59,ARNAV RAI,27,Male,182,82,40.5,Obesity
+60,JELLI PRAJWAL,25,Male,303,64,41.5,Eating disorder
+61,GOLI SHASHANK,27,Male,265,0,0,Heart condition
+62,RAMDIN ROSHAN SINGH,24,Male,309,72,32.9,Chronic kidney disease
+63,ARPITHA SINGH,22,Female,186,62,25,Diabetes
+64,GANUGU SANJANA,18,Female,203,58,25.4,Cardiovascular disease (CVD)
+65,CHAHAT SINGH,17,Male,211,66,32.8,Heart condition
+66,C TAMMANA SINGH,37,Female,183,74,29,Obesity
+67,MADADI RITHWIK SAI,48,Male,222,88,32.5,Diabetes
+68,RISHAV GOSWAMI,49,Male,234,92,42.7,Heart condition
+69,KUPPILI YUVARAJ,68,Male,220,66,19.6,Chronic kidney disease
